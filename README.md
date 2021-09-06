@@ -62,17 +62,17 @@ Both XGBooster and LightGBM models were used in this project. <br>
 The models' performance was analyzed by creating a baseline prediction and evaluating its Kaggle score result in the competition.
 Then later comparing the models' predictions scores to the baseline. <br>
 
-------------- | ------------- | -------------
-Model | Kaggle Score | Increase from Baseline
-------------- | ------------- | -------------
-Baseline (Repeat Last) | 0.21671 | -
-XGBoost (Default) | 0.37890 | 74.84%
-XBGoost (A Params) | 0.38074 | 75.69%
-XBGoost (B Params) | 0.38090 | 75.76%
-LightGBM (Default) | 0.38573 | 77.99%
-LightGBM (A Params) | 0.38495 | 77.63%
-LightGBM (B Params) | 0.38528 | 77.79%
-------------- | ------------- | -------------
+|------------- | ------------- | -------------|
+|Model | Kaggle Score | Increase from Baseline
+|------------- | ------------- | -------------|
+|Baseline (Repeat Last) | 0.21671 | - |
+|XGBoost (Default) | 0.37890 | 74.84% |
+|XBGoost (A Params) | 0.38074 | 75.69% |
+|XBGoost (B Params) | 0.38090 | 75.76% |
+|LightGBM (Default) | 0.38573 | 77.99% |
+|LightGBM (A Params) | 0.38495 | 77.63% |
+|LightGBM (B Params) | 0.38528 | 77.79% |
+|------------- | ------------- | -------------
 
 
 # 5. Business Results
