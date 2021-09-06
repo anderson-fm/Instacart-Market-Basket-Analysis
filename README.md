@@ -62,9 +62,8 @@ Both XGBooster and LightGBM models were used in this project. <br>
 The models' performance was analyzed by creating a baseline prediction and evaluating its Kaggle score result in the competition.
 Then later comparing the models' predictions scores to the baseline. <br>
 
-|------------- | ------------- | -------------|
-|Model | Kaggle Score | Increase from Baseline
-|------------- | ------------- | -------------|
+|Model | Kaggle Score | Increase from Baseline |
+| :---: | :---: | :---: |
 |Baseline (Repeat Last) | 0.21671 | - |
 |XGBoost (Default) | 0.37890 | 74.84% |
 |XBGoost (A Params) | 0.38074 | 75.69% |
@@ -72,17 +71,30 @@ Then later comparing the models' predictions scores to the baseline. <br>
 |LightGBM (Default) | 0.38573 | 77.99% |
 |LightGBM (A Params) | 0.38495 | 77.63% |
 |LightGBM (B Params) | 0.38528 | 77.79% |
-|------------- | ------------- | -------------
-
-
-# 5. Business Results
 
 # 6. Conclusions
 
-# 7. Lessons Learned
+From the results we can visualize that the highest Increase from Baseline was obtained by using the LightGBM models, with an average of 77.8% increase from the baseline and an increase about 2% higher than the obtained with the XGBoost models.
 
-# 8. Next Steps
+# 7.  Next Steps
 
+Evaluate the influence of the recommendation systems to the business.
+
+# 8. References
+
+In this work, multiple libraries and projects were consulted and used as reference. <br>
+The following list comprises the most relevant ones that should provide further insights on the subject.
+
+- https://www.kaggle.com/fabienvs/instacart-xgboost-starter-lb-0-3791/code
+- https://www.kaggle.com/paulantoine/light-gbm-benchmark-0-3692/code
+- https://www.kaggle.com/nickycan/lb-0-3805009-python-edition/notebook
+- https://www.kaggle.com/rshally/instacart-lb-392-runs-on-kaggle-with-2nd-clf/notebook
+- https://www.kaggle.com/kokovidis/ml-instacart-f1-0-38-part-two-xgboost-f1-max
+- https://www.kaggle.com/hongweizhang/how-to-calculate-f1-score/notebook
+
+
+- https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec
+- https://towardsdatascience.com/an-exhaustive-list-of-methods-to-evaluate-recommender-systems-a70c05e121de
 
 ### Acknowledgements
 
