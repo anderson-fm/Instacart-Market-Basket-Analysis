@@ -85,16 +85,15 @@ Evaluate the influence of the recommendation systems to the business.
 In this work, multiple libraries and projects were consulted and used as reference. <br>
 The following list comprises the most relevant ones that should provide further insights on the subject.
 
-- https://www.kaggle.com/fabienvs/instacart-xgboost-starter-lb-0-3791/code
-- https://www.kaggle.com/paulantoine/light-gbm-benchmark-0-3692/code
-- https://www.kaggle.com/nickycan/lb-0-3805009-python-edition/notebook
-- https://www.kaggle.com/rshally/instacart-lb-392-runs-on-kaggle-with-2nd-clf/notebook
-- https://www.kaggle.com/kokovidis/ml-instacart-f1-0-38-part-two-xgboost-f1-max
-- https://www.kaggle.com/hongweizhang/how-to-calculate-f1-score/notebook
+https://www.kaggle.com/fabienvs/instacart-xgboost-starter-lb-0-3791/code
+https://www.kaggle.com/paulantoine/light-gbm-benchmark-0-3692/code
+https://www.kaggle.com/nickycan/lb-0-3805009-python-edition/notebook
+https://www.kaggle.com/rshally/instacart-lb-392-runs-on-kaggle-with-2nd-clf/notebook
+https://www.kaggle.com/kokovidis/ml-instacart-f1-0-38-part-two-xgboost-f1-max
+https://www.kaggle.com/hongweizhang/how-to-calculate-f1-score/notebook
 
-
-- https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec
-- https://towardsdatascience.com/an-exhaustive-list-of-methods-to-evaluate-recommender-systems-a70c05e121de
+https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec
+https://towardsdatascience.com/an-exhaustive-list-of-methods-to-evaluate-recommender-systems-a70c05e121de
 
 ### Acknowledgements
 
